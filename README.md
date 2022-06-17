@@ -11,11 +11,14 @@ This is a personal repo with python code about some advanced and necessaries top
     - The python language reference: https://docs.python.org/3/reference/index.html
     - pydantic: https://pydantic-docs.helpmanual.io/
     - Starlette: https://www.starlette.io/
+    - GraphQL: https://www.howtographql.com/
+    - tartiflette: https://tartiflette.io/
     - SQLAlchemy: https://www.sqlalchemy.org/
     - Jinja: https://jinja.palletsprojects.com/en/3.1.x/
     - FastAPI: https://fastapi.tiangolo.com/
 
 ## Specific topics 
+    - [] abc: https://docs.python.org/3/library/abc.html
     - [] classes: https://docs.python.org/es/3/tutorial/classes.html
     - [] errors: https://docs.python.org/es/3/tutorial/errors.html
     - [] time: https://docs.python.org/3/library/time.html
