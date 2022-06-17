@@ -14,11 +14,12 @@ This is a personal repo with python code about some advanced and necessaries top
     - GraphQL: https://www.howtographql.com/
     - tartiflette: https://tartiflette.io/
     - SQLAlchemy: https://www.sqlalchemy.org/
+    - requests: https://requests.readthedocs.io/en/latest/
     - Jinja: https://jinja.palletsprojects.com/en/3.1.x/
     - FastAPI: https://fastapi.tiangolo.com/
 
 ## Specific topics 
-    - [] abc: https://docs.python.org/3/library/abc.html
+    - [x] abc: https://docs.python.org/3/library/abc.html
     - [] classes: https://docs.python.org/es/3/tutorial/classes.html
     - [] errors: https://docs.python.org/es/3/tutorial/errors.html
     - [] time: https://docs.python.org/3/library/time.html
