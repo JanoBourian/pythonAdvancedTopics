@@ -7,16 +7,16 @@ This is a personal repo with python code about some advanced and necessaries top
 # About topics
 
 ## General topics 
-    - The python standard library: https://docs.python.org/3/library/index.html
-    - The python language reference: https://docs.python.org/3/reference/index.html
-    - pydantic: https://pydantic-docs.helpmanual.io/
-    - Starlette: https://www.starlette.io/
-    - GraphQL: https://www.howtographql.com/
-    - tartiflette: https://tartiflette.io/
-    - SQLAlchemy: https://www.sqlalchemy.org/
-    - requests: https://requests.readthedocs.io/en/latest/
-    - Jinja: https://jinja.palletsprojects.com/en/3.1.x/
-    - FastAPI: https://fastapi.tiangolo.com/
+    - [] The python standard library: https://docs.python.org/3/library/index.html
+    - [] The python language reference: https://docs.python.org/3/reference/index.html
+    - [] pydantic: https://pydantic-docs.helpmanual.io/
+    - [] Starlette: https://www.starlette.io/
+    - [] GraphQL: https://www.howtographql.com/
+    - [] tartiflette: https://tartiflette.io/
+    - [X] SQLAlchemy: https://www.sqlalchemy.org/
+    - [] requests: https://requests.readthedocs.io/en/latest/
+    - [] Jinja: https://jinja.palletsprojects.com/en/3.1.x/
+    - [] FastAPI: https://fastapi.tiangolo.com/
 
 ## Specific topics 
     - [x] abc: https://docs.python.org/3/library/abc.html
