@@ -6,6 +6,25 @@ This is a personal repo with python code about some advanced and necessaries top
 
 # About topics
 
+## Python basic Topics
+    The url base is https://docs.python.org/3/tutorial/index.html
+    - [] Whettng your appetite
+    - [] Using the Python Interpreter
+    - [] An informal Introduction to Python
+    - [] Control Flow Tools
+    - [] Data Structures
+    - [] Modules
+    - [] Input and Output
+    - [] Errors and Exceptions
+    - [] Classes
+    - [] Standard Libary I
+    - [] Standard Libary II
+    - [] Virtual environments and packages
+    - [] What now?
+    - [] Interactive Input Editing
+    - [] Floating Point Arithmetic
+    - [] Appendix
+
 ## General topics 
     - [] The python standard library: https://docs.python.org/3/library/index.html
     - [] The python language reference: https://docs.python.org/3/reference/index.html
