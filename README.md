@@ -8,8 +8,7 @@ This is a personal repo with python code about some advanced and necessaries top
 
 ## Python basic Topics
     The url base is https://docs.python.org/3/tutorial/index.html
-    - [] Whettng your appetite
-    - [] Using the Python Interpreter
+    - [X] Using the Python Interpreter
     - [] An informal Introduction to Python
     - [] Control Flow Tools
     - [] Data Structures
@@ -25,10 +24,31 @@ This is a personal repo with python code about some advanced and necessaries top
     - [] Floating Point Arithmetic
     - [] Appendix
 
+## Flask Topics
+    - [] Installation
+    - [] Basic Application Structure
+    - [] Templates
+    - [] Web Forms
+    - [] Databases 
+    - [] Email
+    - [] Large Application Structure
+    - [] User Authentication
+    - [] User Roles
+    - [] User Profiles
+    - [] Blog Posts
+    - [] Followers
+    - [] User Comments
+    - [] Application Programming Interfaces
+    - [] Testing
+    - [] Performance
+    - [] Deployment
+    - [] Additional Resources
+
 ## General topics 
     - [] The python standard library: https://docs.python.org/3/library/index.html
     - [] The python language reference: https://docs.python.org/3/reference/index.html
     - [] pydantic: https://pydantic-docs.helpmanual.io/
+    - [] Pytest: https://docs.pytest.org/en/7.2.x/
     - [] Starlette: https://www.starlette.io/
     - [] GraphQL: https://www.howtographql.com/
     - [] tartiflette: https://tartiflette.io/
@@ -36,6 +56,10 @@ This is a personal repo with python code about some advanced and necessaries top
     - [] requests: https://requests.readthedocs.io/en/latest/
     - [] Jinja: https://jinja.palletsprojects.com/en/3.1.x/
     - [] FastAPI: https://fastapi.tiangolo.com/
+    - [] OpenAPI: Crash course
+    - [] Automated Software Testing: Crash course
+    - [] Flask REST APIs I
+    - [] Flask REST APIs II
 
 ## Specific topics 
     - [x] abc: https://docs.python.org/3/library/abc.html
