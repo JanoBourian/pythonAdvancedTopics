@@ -8,9 +8,9 @@ This is a personal repo with python code about some advanced and necessaries top
 
 ## Python basic Topics
     The url base is https://docs.python.org/3/tutorial/index.html
-    - [X] Using the Python Interpreter
-    - [] An informal Introduction to Python
-    - [] Control Flow Tools
+    - [x] Using the Python Interpreter
+    - [x] An informal Introduction to Python
+    - [x] Control Flow Tools
     - [] Data Structures
     - [] Modules
     - [] Input and Output
@@ -26,7 +26,7 @@ This is a personal repo with python code about some advanced and necessaries top
 
 ## Flask Topics
     - [X] Installation
-    - [] Basic Application Structure
+    - [x] Basic Application Structure
     - [] Templates
     - [] Web Forms
     - [] Databases 
@@ -53,7 +53,7 @@ This is a personal repo with python code about some advanced and necessaries top
     - [] Starlette: https://www.starlette.io/
     - [] GraphQL: https://www.howtographql.com/
     - [] tartiflette: https://tartiflette.io/
-    - [X] SQLAlchemy: https://www.sqlalchemy.org/
+    - [] SQLAlchemy: https://www.sqlalchemy.org/
     - [] requests: https://requests.readthedocs.io/en/latest/
     - [] Jinja: https://jinja.palletsprojects.com/en/3.1.x/
     - [] FastAPI: https://fastapi.tiangolo.com/
@@ -72,8 +72,8 @@ This is a personal repo with python code about some advanced and necessaries top
     - [] os: https://docs.python.org/3/library/os.html
     - [] dataclasses: https://docs.python.org/3/library/dataclasses.html
     - [] collections: https://docs.python.org/3/library/collections.html
-    - [] unittest: https://docs.python.org/3/library/unittest.html
-    - [] doctest: https://docs.python.org/3/library/doctest.html
+    - [0] unittest: https://docs.python.org/3/library/unittest.html
+    - [0] doctest: https://docs.python.org/3/library/doctest.html
     - [] typing: https://docs.python.org/3/library/typing.html
     - [] threading: https://docs.python.org/es/3.10/library/threading.html
     - [0] async: https://docs.python.org/3/library/asyncio.html
@@ -81,5 +81,7 @@ This is a personal repo with python code about some advanced and necessaries top
     - [] functional: https://docs.python.org/es/3/library/functional.html
     - [] coroutines: https://realpython.com/lessons/what-are-python-coroutines/#description
     - [0] generators: https://realpython.com/introduction-to-python-generators/
-    - [X] functional_I: https://book.pythontips.com/en/latest/map_filter.html
-    - [] csv
+    - [x] functional_I: https://book.pythontips.com/en/latest/map_filter.html
+    - [x] csv: https://docs.python.org/3/library/csv.html#module-contents
+    - [x] comprehension: https://www.w3schools.com/python/python_lists_comprehension.asp
+    - [x] docstring: https://docs.hektorprofe.net/python/documentacion-y-pruebas/docstrings/
