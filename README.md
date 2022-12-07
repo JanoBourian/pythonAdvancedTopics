@@ -47,6 +47,7 @@ This is a personal repo with python code about some advanced and necessaries top
 ## General topics 
     - [] The python standard library: https://docs.python.org/3/library/index.html
     - [] The python language reference: https://docs.python.org/3/reference/index.html
+    - [] Requests: https://requests.readthedocs.io/en/latest/
     - [] pydantic: https://pydantic-docs.helpmanual.io/
     - [] Pytest: https://docs.pytest.org/en/7.2.x/
     - [] Starlette: https://www.starlette.io/
@@ -75,6 +76,10 @@ This is a personal repo with python code about some advanced and necessaries top
     - [] doctest: https://docs.python.org/3/library/doctest.html
     - [] typing: https://docs.python.org/3/library/typing.html
     - [] threading: https://docs.python.org/es/3.10/library/threading.html
-    - [] async: https://docs.python.org/3/library/asyncio.html
-    - [] itertools: https://docs.python.org/3/library/itertools.html
+    - [0] async: https://docs.python.org/3/library/asyncio.html
+    - [0] itertools: https://docs.python.org/3/library/itertools.html
     - [] functional: https://docs.python.org/es/3/library/functional.html
+    - [] coroutines: https://realpython.com/lessons/what-are-python-coroutines/#description
+    - [0] generators: https://realpython.com/introduction-to-python-generators/
+    - [X] functional_I: https://book.pythontips.com/en/latest/map_filter.html
+    - [] csv
