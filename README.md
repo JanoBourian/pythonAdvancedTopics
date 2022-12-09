@@ -8,10 +8,10 @@ This is a personal repo with python code about some advanced and necessaries top
 
 ## Python basic Topics
     The url base is https://docs.python.org/3/tutorial/index.html
-    - [x] Using the Python Interpreter
-    - [x] An informal Introduction to Python
-    - [x] Control Flow Tools
-    - [] Data Structures
+    - [x] Using the Python Interpreter: https://docs.python.org/3/tutorial/interpreter.html
+    - [x] An informal Introduction to Python: https://docs.python.org/3/tutorial/introduction.html
+    - [x] Control Flow Tools: https://docs.python.org/3/tutorial/controlflow.html
+    - [] Data Structures: https://docs.python.org/3/tutorial/datastructures.html
     - [] Modules
     - [] Input and Output
     - [] Errors and Exceptions
