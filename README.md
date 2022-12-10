@@ -11,8 +11,8 @@ This is a personal repo with python code about some advanced and necessaries top
     - [x] Using the Python Interpreter: https://docs.python.org/3/tutorial/interpreter.html
     - [x] An informal Introduction to Python: https://docs.python.org/3/tutorial/introduction.html
     - [x] Control Flow Tools: https://docs.python.org/3/tutorial/controlflow.html
-    - [] Data Structures: https://docs.python.org/3/tutorial/datastructures.html
-    - [] Modules
+    - [x] Data Structures: https://docs.python.org/3/tutorial/datastructures.html
+    - [x] Modules: https://docs.python.org/3/tutorial/modules.html
     - [] Input and Output
     - [] Errors and Exceptions
     - [] Classes
@@ -87,3 +87,4 @@ This is a personal repo with python code about some advanced and necessaries top
     - [x] docstring: https://docs.hektorprofe.net/python/documentacion-y-pruebas/docstrings/
     - [] decorators: https://book.pythontips.com/en/latest/decorators.html
     - [] PEP: https://peps.python.org/pep-0008/#introduction
+    - [] open: https://docs.python.org/3/library/functions.html#open
