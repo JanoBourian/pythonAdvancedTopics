@@ -13,16 +13,16 @@ This is a personal repo with python code about some advanced and necessaries top
     - [x] Control Flow Tools: https://docs.python.org/3/tutorial/controlflow.html
     - [x] Data Structures: https://docs.python.org/3/tutorial/datastructures.html
     - [x] Modules: https://docs.python.org/3/tutorial/modules.html
-    - [] Input and Output
-    - [] Errors and Exceptions
-    - [] Classes
-    - [] Standard Libary I
-    - [] Standard Libary II
-    - [] Virtual environments and packages
-    - [] What now?
-    - [] Interactive Input Editing
-    - [] Floating Point Arithmetic
-    - [] Appendix
+    - [x] Input and Output: https://docs.python.org/3/tutorial/inputoutput.html
+    - [] Errors and Exceptions: https://docs.python.org/3/tutorial/errors.html
+    - [] Classes: https://docs.python.org/3/tutorial/classes.html
+    - [] Standard Libary I: https://docs.python.org/3/tutorial/stdlib.html
+    - [] Standard Libary II: https://docs.python.org/3/tutorial/stdlib2.html
+    - [] Virtual environments and packages: https://docs.python.org/3/tutorial/venv.html
+    - [] What now?: https://docs.python.org/3/tutorial/whatnow.html
+    - [] Interactive Input Editing: https://docs.python.org/3/tutorial/interactive.html
+    - [] Floating Point Arithmetic: https://docs.python.org/3/tutorial/floatingpoint.html
+    - [] Appendix: https://docs.python.org/3/tutorial/appendix.html
 
 ## Flask Topics
     - [X] Installation
@@ -63,7 +63,7 @@ This is a personal repo with python code about some advanced and necessaries top
     - [] Flask REST APIs II
 
 ## Specific topics 
-    - [x] abc: https://docs.python.org/3/library/abc.html
+    - [0] abc: https://docs.python.org/3/library/abc.html
     - [] classes: https://docs.python.org/es/3/tutorial/classes.html
     - [] errors: https://docs.python.org/es/3/tutorial/errors.html
     - [] time: https://docs.python.org/3/library/time.html
