@@ -27,7 +27,7 @@ This is a personal repo with python code about some advanced and necessaries top
 ## Flask Topics
     - [X] Installation
     - [x] Basic Application Structure
-    - [] Templates
+    - [x] Templates
     - [] Web Forms
     - [] Databases 
     - [] Email

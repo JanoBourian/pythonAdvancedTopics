@@ -1,0 +1,22 @@
+The ``file`` module
+===================
+Using ``add``
+--------------
+This is an example text file in reSructuredText format. First import
+``add`` from the ``file`` module:
+
+    >>> from file import add
+
+Now use it: 
+
+    >>> add(2,5)
+    7
+    
+    >>> add(3.0, 5)
+    8.0
+    
+    >>> add(3, "hello")
+    TypeError: unsopported operand type(s) for +: 'int' and 'str'
+    
+    >>> add("hello", "message")
+    'hellomessage'
