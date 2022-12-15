@@ -73,7 +73,7 @@ This is a personal repo with python code about some advanced and necessaries top
     - [] dataclasses: https://docs.python.org/3/library/dataclasses.html
     - [] collections: https://docs.python.org/3/library/collections.html
     - [0] unittest: https://docs.python.org/3/library/unittest.html
-    - [0] doctest: https://docs.python.org/3/library/doctest.html
+    - [x] doctest: https://docs.python.org/3/library/doctest.html
     - [] typing: https://docs.python.org/3/library/typing.html
     - [] threading: https://docs.python.org/es/3.10/library/threading.html
     - [0] async: https://docs.python.org/3/library/asyncio.html
