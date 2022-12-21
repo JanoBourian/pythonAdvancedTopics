@@ -59,3 +59,45 @@ python -m unittest discover project_directory "*_test.py"
 
 ## Organizing Test Code
 
+- setUp(): This functions help us to write once the general information in a TestCase, help us to write information that will be used in the future (in other functions inside our testcase)
+- tearDown(): will be run whether the test method succeeded or not.
+
+## Skipping test and expected failures
+
+```python
+class MyTestCase(unittest.TestCase):
+
+    @unittest.skip("demonstrating skipping")
+    def test_nothing(self):
+        self.fail("shouldn't happen")
+
+    @unittest.skipIf(mylib.__version__ < (1, 3),
+                     "not supported in this library version")
+    def test_format(self):
+        # Tests that work for only a certain version of the library.
+        pass
+
+    @unittest.skipUnless(sys.platform.startswith("win"), "requires Windows")
+    def test_windows_support(self):
+        # windows specific testing code
+        pass
+
+    def test_maybe_skipped(self):
+        if not external_resource_available():
+            self.skipTest("external resource not available")
+        # test code that depends on the external resource
+        pass
+
+class ExpectedFailureTestCase(unittest.TestCase):
+    @unittest.expectedFailure
+    def test_fail(self):
+        self.assertEqual(1, 0, "broken")
+```
+
+The basic skips decorators are:
+
+- @unittest.skip(reason)
+- @unittest.skipIf(condition, reason)
+- @unittest.skipUnless(condition, reason)
+- @unittest.expectedFailure
+- @unittest.SkipTest(reason)
