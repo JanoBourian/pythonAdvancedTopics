@@ -14,7 +14,7 @@ This is a personal repo with python code about some advanced and necessaries top
     - [x] Data Structures: https://docs.python.org/3/tutorial/datastructures.html
     - [x] Modules: https://docs.python.org/3/tutorial/modules.html
     - [x] Input and Output: https://docs.python.org/3/tutorial/inputoutput.html
-    - [] Errors and Exceptions: https://docs.python.org/3/tutorial/errors.html
+    - [x] Errors and Exceptions: https://docs.python.org/3/tutorial/errors.html
     - [] Classes: https://docs.python.org/3/tutorial/classes.html
     - [] Standard Libary I: https://docs.python.org/3/tutorial/stdlib.html
     - [] Standard Libary II: https://docs.python.org/3/tutorial/stdlib2.html
@@ -72,7 +72,7 @@ This is a personal repo with python code about some advanced and necessaries top
     - [] os: https://docs.python.org/3/library/os.html
     - [] dataclasses: https://docs.python.org/3/library/dataclasses.html
     - [] collections: https://docs.python.org/3/library/collections.html
-    - [0] unittest: https://docs.python.org/3/library/unittest.html
+    - [x] unittest: https://docs.python.org/3/library/unittest.html
     - [x] doctest: https://docs.python.org/3/library/doctest.html
     - [] typing: https://docs.python.org/3/library/typing.html
     - [] threading: https://docs.python.org/es/3.10/library/threading.html
