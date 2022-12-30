@@ -28,7 +28,7 @@ This is a personal repo with python code about some advanced and necessaries top
     - [X] Installation
     - [x] Basic Application Structure
     - [x] Templates
-    - [] Web Forms
+    - [x] Web Forms
     - [] Databases 
     - [] Email
     - [] Large Application Structure
@@ -90,3 +90,8 @@ This is a personal repo with python code about some advanced and necessaries top
     - [] open: https://docs.python.org/3/library/functions.html#open
     - [] json: https://docs.python.org/3/library/json.html#module-json
     - [] uuid: https://docs.python.org/3/library/uuid.html
+
+## Aditional documentation
+
+    - Oscar Blancarte's blog: https://reactiveprogramming.io/blog/es/patrones-de-diseno/factory-method
+    - 25 Nooby habits: https://www.youtube.com/watch?v=qUeud6DvOWI&list=PLPeFgUxQ3mhmWhjDcYCPjFG8sxWb1HYQf&index=2
