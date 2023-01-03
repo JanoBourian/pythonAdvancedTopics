@@ -65,7 +65,7 @@ This is a personal repo with python code about some advanced and necessaries top
 ## Specific topics 
     - [0] abc: https://docs.python.org/3/library/abc.html
     - [] classes: https://docs.python.org/es/3/tutorial/classes.html
-    - [] errors: https://docs.python.org/es/3/tutorial/errors.html
+    - [x] errors: https://docs.python.org/es/3/tutorial/errors.html
     - [] time: https://docs.python.org/3/library/time.html
     - [] datetime: https://docs.python.org/3/library/datetime.html
     - [] built-in fuctions: https://docs.python.org/3/library/functions.html
