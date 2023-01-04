@@ -64,20 +64,19 @@ This is a personal repo with python code about some advanced and necessaries top
 
 ## Specific topics 
     - [0] abc: https://docs.python.org/3/library/abc.html
-    - [] classes: https://docs.python.org/es/3/tutorial/classes.html
     - [x] errors: https://docs.python.org/es/3/tutorial/errors.html
     - [] time: https://docs.python.org/3/library/time.html
     - [] datetime: https://docs.python.org/3/library/datetime.html
     - [] built-in fuctions: https://docs.python.org/3/library/functions.html
     - [] os: https://docs.python.org/3/library/os.html
-    - [] dataclasses: https://docs.python.org/3/library/dataclasses.html
+    - [x] dataclasses: https://docs.python.org/3/library/dataclasses.html
     - [] collections: https://docs.python.org/3/library/collections.html
     - [x] unittest: https://docs.python.org/3/library/unittest.html
     - [x] doctest: https://docs.python.org/3/library/doctest.html
     - [] typing: https://docs.python.org/3/library/typing.html
     - [] threading: https://docs.python.org/es/3.10/library/threading.html
     - [0] async: https://docs.python.org/3/library/asyncio.html
-    - [0] itertools: https://docs.python.org/3/library/itertools.html
+    - [x] itertools: https://docs.python.org/3/library/itertools.html
     - [] functional: https://docs.python.org/es/3/library/functional.html
     - [] coroutines: https://realpython.com/lessons/what-are-python-coroutines/#description
     - [0] generators: https://realpython.com/introduction-to-python-generators/
