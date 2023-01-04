@@ -15,7 +15,7 @@ This is a personal repo with python code about some advanced and necessaries top
     - [x] Modules: https://docs.python.org/3/tutorial/modules.html
     - [x] Input and Output: https://docs.python.org/3/tutorial/inputoutput.html
     - [x] Errors and Exceptions: https://docs.python.org/3/tutorial/errors.html
-    - [] Classes: https://docs.python.org/3/tutorial/classes.html
+    - [x] Classes: https://docs.python.org/3/tutorial/classes.html
     - [] Standard Libary I: https://docs.python.org/3/tutorial/stdlib.html
     - [] Standard Libary II: https://docs.python.org/3/tutorial/stdlib2.html
     - [] Virtual environments and packages: https://docs.python.org/3/tutorial/venv.html
@@ -79,7 +79,7 @@ This is a personal repo with python code about some advanced and necessaries top
     - [x] itertools: https://docs.python.org/3/library/itertools.html
     - [] functional: https://docs.python.org/es/3/library/functional.html
     - [] coroutines: https://realpython.com/lessons/what-are-python-coroutines/#description
-    - [0] generators: https://realpython.com/introduction-to-python-generators/
+    - [x] generators: https://realpython.com/introduction-to-python-generators/
     - [x] functional_I: https://book.pythontips.com/en/latest/map_filter.html
     - [x] csv: https://docs.python.org/3/library/csv.html#module-contents
     - [x] comprehension: https://www.w3schools.com/python/python_lists_comprehension.asp
