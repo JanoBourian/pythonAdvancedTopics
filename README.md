@@ -61,6 +61,7 @@ This is a personal repo with python code about some advanced and necessaries top
     - [] Automated Software Testing: Crash course
     - [] Flask REST APIs I
     - [] Flask REST APIs II
+    - [] Token Based Authentication: https://realpython.com/token-based-authentication-with-flask/
 
 ## Specific topics 
     - [0] abc: https://docs.python.org/3/library/abc.html
