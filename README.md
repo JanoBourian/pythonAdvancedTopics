@@ -95,3 +95,4 @@ This is a personal repo with python code about some advanced and necessaries top
 
     - Oscar Blancarte's blog: https://reactiveprogramming.io/blog/es/patrones-de-diseno/factory-method
     - 25 Nooby habits: https://www.youtube.com/watch?v=qUeud6DvOWI&list=PLPeFgUxQ3mhmWhjDcYCPjFG8sxWb1HYQf&index=2
+    - Tips for Python: https://book.pythontips.com/en/latest/index.html    

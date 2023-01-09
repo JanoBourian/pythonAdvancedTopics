@@ -112,12 +112,33 @@ Return a new "bytes" object which is an inmutable sequence of integers.
 <hr>
 
 - **callable()**
+
+Return True if the object is a callable (function, in other therms if the object can be executable)
+
+```python
+array = [1, 2, 3]
+function = lambda x: x + 1
+print(f"Function {callable(function)}")
+print(f"Array: {callable(array)}")
+```
+
 <hr>
 
 - **chr()**
+
+Return the string representation to a value:
+
+```python
+for _ in range(0, 128):
+    print(chr(_))
+```
+
 <hr>
 
 - **classmethod()**
+
+
+
 <hr>
 
 - **compile()**
