@@ -85,7 +85,7 @@ This is a personal repo with python code about some advanced and necessaries top
     - [x] csv: https://docs.python.org/3/library/csv.html#module-contents
     - [x] comprehension: https://www.w3schools.com/python/python_lists_comprehension.asp
     - [x] docstring: https://docs.hektorprofe.net/python/documentacion-y-pruebas/docstrings/
-    - [] decorators: https://book.pythontips.com/en/latest/decorators.html
+    - [x] decorators: https://book.pythontips.com/en/latest/decorators.html
     - [] PEP: https://peps.python.org/pep-0008/#introduction
     - [] open: https://docs.python.org/3/library/functions.html#open
     - [] json: https://docs.python.org/3/library/json.html#module-json

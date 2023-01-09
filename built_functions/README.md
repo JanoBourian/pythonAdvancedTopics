@@ -137,35 +137,102 @@ for _ in range(0, 128):
 
 - **classmethod()**
 
+Method that can auto-instance. Check decorators for more information.
+
+<hr>
+
+- **compile(source, filename, mode, flags=0, dont_inherit = False, optimize = -1)**
+
+```python
+# Creating sample sourcecode to multiply two variables
+# x and y.
+srcCode = 'x = 10\ny = 20\nmul = x * y\nprint("mul =", mul)'
+ 
+# Converting above source code to an executable
+execCode = compile(srcCode, 'mulstring', 'exec')
+ 
+# Running the executable code.
+exec(execCode)
+```
+
+<hr>
+
+- **complex(real = 0, imag = 0)**
+- **complex(string)**
+
+Return a complex number with the value __real + imag*j__
+
+<hr>
+
+- **delattr(object, name)**
+
+Delete an atribuite. 
 
 
 <hr>
 
-- **compile()**
-<hr>
+- **class dict(\*\*kwargs)**
+- **class dict(mapping, \*\*kwargs)**
+- **class dict(iterable, \*\*kwargs)**
 
-- **complex()**
-<hr>
+Create a new dictionary.
 
-- **delattr()**
-<hr>
-
-- **dict()**
 <hr>
 
 - **dir()**
+- **dir(object)**
+
+Without arguments, return the list of names in the current local scope. With an argument, attempt to return a list of valid attributes for that object.
+
+```python
+class PersonalClass:
+    
+    def __init__(self, name, age, adress):
+        self.name = name
+        self.age = age
+        self.adress = adress
+    
+    def __dir__(self):
+        return ["name"]
+
+p = PersonalClass("james", 18, "St. Petesburgh")
+print(dir(p))
+print(p.age)
+```
+
 <hr>
 
-- **divmod()**
+- **divmod(a, b)**
+
+For integers: a // b,  a % b
+
+
 <hr>
 
-- **enumerate()**
+- **enumerate(iterable, start = 0)**
+
+Return an enumerate object. iterable must be a sequence, an iterator, or some other object which supports iteration.
+
+```python
+def enumerate(sequence, start=0):
+    n = start
+    for elem in sequence:
+        yield n, elem
+        n += 1
+```
+
 <hr>
 
-- **eval()**
+- **eval(expression, globals = None, locals = None)**
+
+The arguments are a string and optional globals and locals. If provided, globals must be a dictionary. If provided, locals can be any mapping object.
+
 <hr>
 
-- **exec()**
+- **exec(object, globals=None, locals=None, /, *, closure=None)**
+
+Execute code directly.
+
 <hr>
 
 - **filter()**
