@@ -16,7 +16,7 @@ This is a personal repo with python code about some advanced and necessaries top
     - [x] Input and Output: https://docs.python.org/3/tutorial/inputoutput.html
     - [x] Errors and Exceptions: https://docs.python.org/3/tutorial/errors.html
     - [x] Classes: https://docs.python.org/3/tutorial/classes.html
-    - [] Standard Libary I: https://docs.python.org/3/tutorial/stdlib.html
+    - [x] Standard Libary I: https://docs.python.org/3/tutorial/stdlib.html
     - [] Standard Libary II: https://docs.python.org/3/tutorial/stdlib2.html
     - [] Virtual environments and packages: https://docs.python.org/3/tutorial/venv.html
     - [] What now?: https://docs.python.org/3/tutorial/whatnow.html
