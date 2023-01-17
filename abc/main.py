@@ -13,7 +13,7 @@ class Citizen(Person):
     
     def __init__(self, age, name):
         self.name = name 
-        super().__init__(self)
+        super().__init__(age)
         
     def set_age(self, age):
         self.age = age
