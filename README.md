@@ -16,8 +16,8 @@ This is a personal repo with python code about some advanced and necessaries top
     - [x] Input and Output: https://docs.python.org/3/tutorial/inputoutput.html
     - [x] Errors and Exceptions: https://docs.python.org/3/tutorial/errors.html
     - [x] Classes: https://docs.python.org/3/tutorial/classes.html
-    - [x] Standard Libary I: https://docs.python.org/3/tutorial/stdlib.html
-    - [] Standard Libary II: https://docs.python.org/3/tutorial/stdlib2.html
+    - [x] Standard Library I: https://docs.python.org/3/tutorial/stdlib.html
+    - [0] Standard Library II: https://docs.python.org/3/tutorial/stdlib2.html
     - [] Virtual environments and packages: https://docs.python.org/3/tutorial/venv.html
     - [] What now?: https://docs.python.org/3/tutorial/whatnow.html
     - [] Interactive Input Editing: https://docs.python.org/3/tutorial/interactive.html
@@ -75,11 +75,11 @@ This is a personal repo with python code about some advanced and necessaries top
     - [x] unittest: https://docs.python.org/3/library/unittest.html
     - [x] doctest: https://docs.python.org/3/library/doctest.html
     - [] typing: https://docs.python.org/3/library/typing.html
-    - [] threading: https://docs.python.org/es/3.10/library/threading.html
+    - [0] threading: https://docs.python.org/es/3.10/library/threading.html
     - [0] async: https://docs.python.org/3/library/asyncio.html
     - [x] itertools: https://docs.python.org/3/library/itertools.html
     - [] functional: https://docs.python.org/es/3/library/functional.html
-    - [] coroutines: https://realpython.com/lessons/what-are-python-coroutines/#description
+    - [0] coroutines: https://realpython.com/lessons/what-are-python-coroutines/#description
     - [x] generators: https://realpython.com/introduction-to-python-generators/
     - [x] functional_I: https://book.pythontips.com/en/latest/map_filter.html
     - [x] csv: https://docs.python.org/3/library/csv.html#module-contents
@@ -95,4 +95,4 @@ This is a personal repo with python code about some advanced and necessaries top
 
     - Oscar Blancarte's blog: https://reactiveprogramming.io/blog/es/patrones-de-diseno/factory-method
     - 25 Nooby habits: https://www.youtube.com/watch?v=qUeud6DvOWI&list=PLPeFgUxQ3mhmWhjDcYCPjFG8sxWb1HYQf&index=2
-    - Tips for Python: https://book.pythontips.com/en/latest/index.html    
+    - Tips for Python: https://book.pythontips.com/en/latest/index.html

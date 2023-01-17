@@ -115,7 +115,7 @@ from timeit import Timer
 Timer('t=a; a=b; b=t', 'a=1; b=2').timeit()
 ```
 
-cProgfile
+cProfile
 
 ```python
 ## Meassure time
@@ -201,17 +201,129 @@ Internationalization is supported by a number of modules including gettext, loca
 
 ## Output Formatting
 
+The reprlib module provides a version of repr() customized for abbreviated displays of large or deeply nested containers:
+
 ```python
+import reprlib
+reprlib.repr(set('supercalifragilisticexpialidocious'))
+"{'a', 'c', 'd', 'e', 'f', 'g', ...}"
+```
+
+The pprint module offers more sophisticated control over printing both built-in and user defined objects in a way that is readable by the interpreter.
+
+```python
+import pprint
+t = [[[['black', 'cyan'], 'white', ['green', 'red']], [['magenta',
+    'yellow'], 'blue']]]
+
+pprint.pprint(t, width=30)
+[[[['black', 'cyan'],
+   'white',
+   ['green', 'red']],
+  [['magenta', 'yellow'],
+   'blue']]]
+```
+
+The textwrap module formats paragraphs of text to fit a given screen width:
+
+```python
+import textwrap
+doc = """The wrap() method is just like fill() except that it returns
+a list of strings instead of one big string with newlines to separate
+the wrapped lines."""
+
+print(textwrap.fill(doc, width=40))
+The wrap() method is just like fill()
+except that it returns a list of strings
+instead of one big string with newlines
+to separate the wrapped lines.
+```
+
+The locale module accesses a database of culture specific data formats.
+
+```python
+import locale
+locale.setlocale(locale.LC_ALL, 'English_United States.1252')
+'English_United States.1252'
+conv = locale.localeconv()          # get a mapping of conventions
+x = 1234567.8
+locale.format("%d", x, grouping=True)
+'1,234,567'
+locale.format_string("%s%.*f", (conv['currency_symbol'],
+                     conv['frac_digits'], x), grouping=True)
+'$1,234,567.80'
 ```
 
 ## Templating
 
+The string module includes a versatile Template class with a simplified syntax suitable for editing by end-users. This allows users to customize their applications without having to alter the application.
+
 ```python
+from string import Template
+t = Template('${village}folk send $$10 to $cause.')
+t.substitute(village='Nottingham', cause='the ditch fund')
+'Nottinghamfolk send $10 to the ditch fund.'
+```
+
+The substitute() method raises a KeyError when a placeholder is not supplied in a dictionary or a keyword argument.
+
+```python
+t = Template('Return the $item to $owner.')
+d = dict(item='unladen swallow')
+t.substitute(d)
+Traceback (most recent call last):
+  ...
+KeyError: 'owner'
+t.safe_substitute(d)
+'Return the unladen swallow to $owner.'
+```
+
+Template subclasses can specify a custom delimiter.
+
+```python
+import time, os.path
+photofiles = ['img_1074.jpg', 'img_1076.jpg', 'img_1077.jpg']
+class BatchRename(Template):
+    delimiter = '%'
+
+fmt = input('Enter rename style (%d-date %n-seqnum %f-format):  ')
+Enter rename style (%d-date %n-seqnum %f-format):  Ashley_%n%f
+
+t = BatchRename(fmt)
+date = time.strftime('%d%b%y')
+for i, filename in enumerate(photofiles):
+    base, ext = os.path.splitext(filename)
+    newname = t.substitute(d=date, n=i, f=ext)
+    print('{0} --> {1}'.format(filename, newname))
+
+img_1074.jpg --> Ashley_0.jpg
+img_1076.jpg --> Ashley_1.jpg
+img_1077.jpg --> Ashley_2.jpg
 ```
 
 ## Workinh with Binary Data Record Layouts
 
+The struct module provides pack() and unpack() functions for working with variable length binary record formats. 
+
 ```python
+import struct
+
+with open('myfile.zip', 'rb') as f:
+    data = f.read()
+
+start = 0
+for i in range(3):                      # show the first 3 file headers
+    start += 14
+    fields = struct.unpack('<IIIHH', data[start:start+16])
+    crc32, comp_size, uncomp_size, filenamesize, extra_size = fields
+
+    start += 16
+    filename = data[start:start+filenamesize]
+    start += filenamesize
+    extra = data[start:start+extra_size]
+    print(filename, hex(crc32), comp_size, uncomp_size)
+
+    start += extra_size + comp_size     # skip to the next header
 ```
 
 ## Multi-threading
