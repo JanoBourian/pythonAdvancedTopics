@@ -29,7 +29,7 @@ This is a personal repo with python code about some advanced and necessaries top
     - [x] Basic Application Structure
     - [x] Templates
     - [x] Web Forms
-    - [] Databases 
+    - [x] Databases 
     - [] Email
     - [] Large Application Structure
     - [] User Authentication
@@ -64,7 +64,7 @@ This is a personal repo with python code about some advanced and necessaries top
     - [] Token Based Authentication: https://realpython.com/token-based-authentication-with-flask/
 
 ## Specific topics 
-    - [0] abc: https://docs.python.org/3/library/abc.html
+    - [x] abc: https://docs.python.org/3/library/abc.html
     - [x] errors: https://docs.python.org/es/3/tutorial/errors.html
     - [] time: https://docs.python.org/3/library/time.html
     - [] datetime: https://docs.python.org/3/library/datetime.html
