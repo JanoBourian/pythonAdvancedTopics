@@ -1,4 +1,5 @@
 from typing import Generator
+from random import randint
 
 def some_sequence(size:int = 0) -> Generator:
     num = 0
@@ -33,3 +34,31 @@ def check_value(iterable, number) -> int:
 
 value = check_value(values, 7)
 print(value)
+
+### Simple generator
+
+def fib(count:int):
+    a, b = 1, 0
+    for _ in range(count):
+        a, b = b, a + b
+        yield b
+
+gen = fib(10)
+print(gen)
+# while True:
+#     print(next(gen))
+    
+### Other way to implement generators
+
+def counter(start = 0, limit = 10):
+    value = start
+    while value < limit:
+        value += yield value
+    yield value
+
+gen_2 = counter()
+gen_2.send(None) # prime the generator
+while True:
+    value = randint(1, 3)
+    total = gen_2.send(value)
+    print(f"sent: {value}, got {total}")

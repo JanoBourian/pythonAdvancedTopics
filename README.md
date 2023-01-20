@@ -79,7 +79,7 @@ This is a personal repo with python code about some advanced and necessaries top
     - [0] async: https://docs.python.org/3/library/asyncio.html
     - [x] itertools: https://docs.python.org/3/library/itertools.html
     - [] functional: https://docs.python.org/es/3/library/functional.html
-    - [0] coroutines: https://realpython.com/lessons/what-are-python-coroutines/#description
+    - [0] coroutines: https://docs.python.org/3/library/asyncio-task.html
     - [x] generators: https://realpython.com/introduction-to-python-generators/
     - [x] functional_I: https://book.pythontips.com/en/latest/map_filter.html
     - [x] csv: https://docs.python.org/3/library/csv.html#module-contents
