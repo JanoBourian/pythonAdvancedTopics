@@ -1,0 +1,16 @@
+The ``test`` module
+===================
+Using ``evaluate_process``
+--------------
+This is an example text file in reSructuredText format. First import
+``evaluate_process`` from the ``test`` module:
+
+    >>> from test import evaluate_process
+
+Now use it: 
+
+    >>> evaluate_process(1)
+    'Weird'
+    
+    >>> evaluate_process(24)
+    'Not Weird'
