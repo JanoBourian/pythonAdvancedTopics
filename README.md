@@ -30,7 +30,7 @@ This is a personal repo with python code about some advanced and necessaries top
     - [x] Templates
     - [x] Web Forms
     - [x] Databases 
-    - [] Email
+    - [x] Email
     - [] Large Application Structure
     - [] User Authentication
     - [] User Roles
