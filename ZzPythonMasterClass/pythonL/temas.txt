@@ -1,0 +1,29 @@
+Temas a tratar sugeridos por algunas documentaciones
+
+    Date an Time
+    List Comprehension
+    List
+    Tuple
+    Dictionary
+    Set
+    Multithreading
+    Python IO
+    os Module
+    Modules, in general.
+    Functional Programming
+    Lambda
+    Yield
+    Iterator and Generator
+    Filter, Map and Reduce
+    Classes
+    Object
+    Inhetirance
+    Encapsulation
+    Polymorphism
+    Operator Overloading
+    Decorators
+    Context Manager
+    Statics
+    Pickle and Unpickle
+    Properties
+

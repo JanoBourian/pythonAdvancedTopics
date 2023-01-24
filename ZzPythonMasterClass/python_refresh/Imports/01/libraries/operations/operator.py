@@ -1,0 +1,1 @@
+print(f'Operator __name__: {__name__}')
