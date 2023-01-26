@@ -31,7 +31,7 @@ This is a personal repo with python code about some advanced and necessaries top
     - [x] Web Forms
     - [x] Databases 
     - [x] Email
-    - [] Large Application Structure
+    - [x] Large Application Structure
     - [] User Authentication
     - [] User Roles
     - [] User Profiles
