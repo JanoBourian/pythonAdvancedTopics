@@ -90,6 +90,7 @@ This is a personal repo with python code about some advanced and necessaries top
     - [] open: https://docs.python.org/3/library/functions.html#open
     - [] json: https://docs.python.org/3/library/json.html#module-json
     - [] uuid: https://docs.python.org/3/library/uuid.html
+    - [] sqlite3: https://docs.python.org/3/library/sqlite3.html
 
 ## Aditional documentation
 
