@@ -18,6 +18,36 @@ __next__()
 
 ## Generator
 
+Basiclly, generator is a function that returns an iterator that produces a sequence of values when iterated over.
+
+```python
+def generator_name(arg):
+    # statements
+    yield something
+```
+
+But, we have other application with *send()* statment:
+
+```python
+def counter(start = 0, limit = 10):
+    value = start
+    while value < limit:
+        breakpoint()
+        value += yield value
+    yield value
+
+gen_2 = counter(start = 0, limit = 100)
+gen_2.send(None) # prime the generator
+while True:
+    try:
+        value = randint(1, 3)
+        total = gen_2.send(value)
+        print(f"sent: {value}, got {total}")
+    except StopIteration:
+        print("Ends")
+        break
+```
+
 ## Coroutines
 
 ## 
