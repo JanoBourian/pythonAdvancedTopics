@@ -16,6 +16,8 @@ __iter__()
 __next__()
 ```
 
+For more information please visit the next [link](https://www.w3schools.com/python/python_iterators.asp)
+
 ## Generator
 
 Basiclly, generator is a function that returns an iterator that produces a sequence of values when iterated over.
@@ -48,8 +50,14 @@ while True:
         break
 ```
 
+For more information please visit the next [link](https://www.iditect.com/guide/python/class-member-generator-send-close-throw.html)
+
 ## Coroutines
 
-## 
+Coroutines have a little difference of Generators cause *Generators* produce data to consume but *Coroutines* consume data.
+
+First source of information is [here](https://www.geeksforgeeks.org/coroutine-in-python/)
+
+## Thread
 
 ## Async operations
