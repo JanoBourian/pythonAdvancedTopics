@@ -98,3 +98,18 @@ This is a personal repo with python code about some advanced and necessaries top
     - 25 Nooby habits: https://www.youtube.com/watch?v=qUeud6DvOWI&list=PLPeFgUxQ3mhmWhjDcYCPjFG8sxWb1HYQf&index=2
     - Tips for Python: https://book.pythontips.com/en/latest/index.html
     - Desing patterns in python: https://refactoring.guru/es
+
+## Most important topics to learn
+
+    - Iterators
+    - Generators
+    - Coroutines
+    - Threading
+    - Async I/O
+    - Subprocesses
+    - Sockets
+    - List and dict comprehension
+    - Test does not work in parallel
+    - Tasks in a program
+    - jobQueue.queue
+    - Flask-caching
