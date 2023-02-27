@@ -101,15 +101,19 @@ This is a personal repo with python code about some advanced and necessaries top
 
 ## Most important topics to learn
 
-    - Iterators
-    - Generators
-    - Coroutines
-    - Threading
-    - Async I/O
-    - Subprocesses
-    - Sockets
-    - List and dict comprehension
-    - Test does not work in parallel
-    - Tasks in a program
-    - jobQueue.queue
-    - Flask-caching
+    - [X] Iterators
+    - [X] Generators https://docs.python.org/3/howto/functional.html?highlight=generator
+    - [] Coroutines 
+        * https://www.geeksforgeeks.org/coroutine-in-python/
+        * https://docs.python.org/3/library/asyncio-task.html?highlight=coroutines
+    - [] Threading
+    - [] Async I/O
+    - [] Subprocesses
+    - [] Sockets
+    - [] List and dict comprehension
+    - [] Test does not work in parallel
+    - [] Tasks in a program
+    - [] jobQueue.queue
+    - [] Flask-caching
+    - [] Enumerate https://docs.python.org/3/howto/enum.html
+    - [] Functional https://docs.python.org/3/howto/functional.html?highlight=generator
