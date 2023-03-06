@@ -106,6 +106,7 @@ This is a personal repo with python code about some advanced and necessaries top
     - [] Coroutines 
         * https://www.geeksforgeeks.org/coroutine-in-python/
         * https://docs.python.org/3/library/asyncio-task.html?highlight=coroutines
+        * https://superfastpython.com/python-coroutine/
     - [] Threading
     - [] Async I/O
     - [] Subprocesses

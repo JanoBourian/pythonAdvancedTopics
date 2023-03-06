@@ -1,6 +1,6 @@
 # Generators
 
-Generators are a beauty way to manage an iterable information or a long information.
+Generators are a beauty way to manage an iterable information or a long information. Generators are a special subset of Coroutines.
 
 ## main.py
 
