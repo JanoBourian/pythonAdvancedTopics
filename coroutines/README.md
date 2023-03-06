@@ -9,3 +9,7 @@ generator.send(value)
 generator.throw(exception)
 generator.close()
 ```
+
+## Difference between Generator and Coroutines 
+
+Only one commit 
