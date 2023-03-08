@@ -109,6 +109,7 @@ This is a personal repo with python code about some advanced and necessaries top
         * https://superfastpython.com/python-coroutine/
     - [] Tasks
     - [] Threading
+    - [] Futures https://docs.python.org/3/library/asyncio-eventloop.html#asyncio.loop.run_in_executor
     - [] Async I/O
     - [] Subprocesses
     - [] Sockets
