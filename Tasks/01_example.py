@@ -2,9 +2,9 @@ import asyncio
 import time
 
 async def async_count(sleep_time:int):
-    print(f"Time {sleep_time} seconds")
+    # print(f"Time {sleep_time} seconds")
     await asyncio.sleep(sleep_time)
-    print(f"Time {sleep_time} seconds")
+    # print(f"Time {sleep_time} seconds")
 
 async def main():
     print(f"Start {time.strftime('%X')}")
