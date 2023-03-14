@@ -29,3 +29,9 @@ async def display_date():
 
 asyncio.run(display_date())
 ```
+
+## Runing Tasks concurrently
+
+The key is **asyncio.gather** 
+
+For more information please check the file *03_factorial.py*

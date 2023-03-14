@@ -3,7 +3,9 @@ import time
 
 async def async_count(sleep_time:int):
     # print(f"Time {sleep_time} seconds")
+    print(f"Task {sleep_time}")
     await asyncio.sleep(sleep_time)
+    return sleep_time
     # print(f"Time {sleep_time} seconds")
 
 async def main():
