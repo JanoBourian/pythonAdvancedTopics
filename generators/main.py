@@ -30,7 +30,7 @@ for i in numbers:
 
 
 print("*"*100)
-
+input()
 # numbers = counter(15)
 # for i in numbers:
 #     if i*5 == 25:

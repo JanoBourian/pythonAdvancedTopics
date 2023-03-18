@@ -1,0 +1,6 @@
+INFO:2023-03-17 14:33:03,046 Maybe you can see me
+WARNING:2023-03-17 14:33:03,046 Of course you can see me
+DEBUG:2023-03-17 14:33:03,046 This message should go to the log file
+INFO:2023-03-17 14:33:03,046 So should this
+WARNING:2023-03-17 14:33:03,046 And this, too
+ERROR:2023-03-17 14:33:03,046 And non-ASCII stuff, too, like Øresund and Malmö

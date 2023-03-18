@@ -333,9 +333,11 @@ for i in range(3):                      # show the first 3 file headers
 
 ## Logging
 
+For this part you can check the documentation in this repository or you can go to the oficial documentation: 
 
-```python
-```
+* https://docs.python.org/3/howto/logging.html#logging-basic-tutorial
+* https://docs.python.org/3/howto/logging.html#logging-advanced-tutorial
+* https://docs.python.org/3/howto/logging-cookbook.html#logging-cookbook
 
 ## Weak References
 

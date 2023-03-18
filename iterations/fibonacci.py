@@ -25,7 +25,7 @@ class Fibo:
         
         raise StopIteration
     
-iterable = Fibo(999)
+iterable = Fibo(0)
 
 for i in iterable:
     print(i)

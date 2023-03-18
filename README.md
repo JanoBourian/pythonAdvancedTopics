@@ -91,6 +91,7 @@ This is a personal repo with python code about some advanced and necessaries top
     - [] json: https://docs.python.org/3/library/json.html#module-json
     - [] uuid: https://docs.python.org/3/library/uuid.html
     - [] sqlite3: https://docs.python.org/3/library/sqlite3.html
+    - [0] logging: https://docs.python.org/3/library/logging.html#module-logging
 
 ## Aditional documentation
 
