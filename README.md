@@ -92,6 +92,7 @@ This is a personal repo with python code about some advanced and necessaries top
     - [] uuid: https://docs.python.org/3/library/uuid.html
     - [] sqlite3: https://docs.python.org/3/library/sqlite3.html
     - [0] logging: https://docs.python.org/3/library/logging.html#module-logging
+    - [0] urllib: https://docs.python.org/3/howto/urllib2.html
 
 ## Aditional documentation
 
