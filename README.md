@@ -93,6 +93,10 @@ This is a personal repo with python code about some advanced and necessaries top
     - [] sqlite3: https://docs.python.org/3/library/sqlite3.html
     - [0] logging: https://docs.python.org/3/library/logging.html#module-logging
     - [0] urllib: https://docs.python.org/3/howto/urllib2.html
+    - [] shutil: https://docs.python.org/3/library/shutil.html#shutil.copyfileobj
+    - [] tempfile: https://docs.python.org/3/library/tempfile.html#tempfile.NamedTemporaryFile
+    - [] filesystem: https://docs.python.org/3/library/filesys.html
+    - [] dunder_methods: https://www.tutorialsteacher.com/python/magic-methods-in-python
 
 ## Aditional documentation
 

@@ -13,14 +13,14 @@ async def get_method(url:str, index:int) -> int:
         res = response.code
     value = random.randrange(10)
     await asyncio.sleep(value)
-    # print(index, res, value)
+    print(index, res, value)
     return value
     
 
 async def main():
     start = time.perf_counter()
     print(f"Start {time.strftime('%X')}")
-    urls = ['http://python.org/' for _ in range(100)]
+    urls = ['http://127.0.0.1:8000/books/' for _ in range(1000)]
     background_tasks = set()
     for index, item in enumerate(urls):
         task = asyncio.create_task(get_method(item, index))
