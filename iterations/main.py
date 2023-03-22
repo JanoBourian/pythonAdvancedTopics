@@ -20,7 +20,7 @@ class NewPow:
     def __repr__(self):
         return f"< NewPow {self.max} - {self.exponent}>"
 
-iterable = NewPow(99, 100)
+iterable = NewPow(99, 9999)
 
 for i in iterable:
-    print(i)
+    print(f"result {i}")

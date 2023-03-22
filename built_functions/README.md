@@ -12,13 +12,13 @@ Return the absolute value of int or float number. In case of complex number or s
 
 - **aiter(async_iterable)**
 
-Return an async iterable. 
+Return an async iterable. Euivalent to calling **x.\_\_aiter\_\_()**
 
 <hr>
 
 - **all(iterable)**
 
-Return **True** if all elements of the iterable are tru (or if the iterable is empty). Equivalent to:
+Return **True** if all elements of the iterable are true (or if the iterable is empty). Equivalent to:
 
 ```python
 def all(iterable):
@@ -27,6 +27,14 @@ def all(iterable):
             return False
     return True
 ```
+
+<hr>
+
+- **anext(async_iterator)**
+- **anext(async_iterator, default)**
+
+Basicly is like **next()** operation but for awaitables iterators (or aiter())
+
 <hr>
 
 - **any(iterable)**
@@ -40,13 +48,6 @@ def any(iterable):
             return True
     return False
 ```
-
-<hr>
-
-- **anext(async_iterator)**
-- **anext(async_iterator, default)**
-
-Basicly is like **next()** operation but for awaitables iterators (or aiter())
 
 <hr>
 

@@ -68,7 +68,7 @@ This is a personal repo with python code about some advanced and necessaries top
     - [x] errors: https://docs.python.org/es/3/tutorial/errors.html
     - [] time: https://docs.python.org/3/library/time.html
     - [] datetime: https://docs.python.org/3/library/datetime.html
-    - [] built-in fuctions: https://docs.python.org/3/library/functions.html
+    - [0] built-in fuctions: https://docs.python.org/3/library/functions.html
     - [] os: https://docs.python.org/3/library/os.html
     - [x] dataclasses: https://docs.python.org/3/library/dataclasses.html
     - [] collections: https://docs.python.org/3/library/collections.html
@@ -78,7 +78,7 @@ This is a personal repo with python code about some advanced and necessaries top
     - [0] threading: https://docs.python.org/es/3.10/library/threading.html
     - [0] async: https://docs.python.org/3/library/asyncio.html
     - [x] itertools: https://docs.python.org/3/library/itertools.html
-    - [] functional: https://docs.python.org/es/3/library/functional.html
+    - [0] functional: https://docs.python.org/es/3/library/functional.html
     - [0] coroutines: https://docs.python.org/3/library/asyncio-task.html
     - [x] generators: https://realpython.com/introduction-to-python-generators/
     - [x] functional_I: https://book.pythontips.com/en/latest/map_filter.html
@@ -96,7 +96,7 @@ This is a personal repo with python code about some advanced and necessaries top
     - [] shutil: https://docs.python.org/3/library/shutil.html#shutil.copyfileobj
     - [] tempfile: https://docs.python.org/3/library/tempfile.html#tempfile.NamedTemporaryFile
     - [] filesystem: https://docs.python.org/3/library/filesys.html
-    - [] dunder_methods: https://www.tutorialsteacher.com/python/magic-methods-in-python
+    - [0] dunder_methods: https://www.tutorialsteacher.com/python/magic-methods-in-python
 
 ## Aditional documentation
 
