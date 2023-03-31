@@ -97,6 +97,7 @@ This is a personal repo with python code about some advanced and necessaries top
     - [] tempfile: https://docs.python.org/3/library/tempfile.html#tempfile.NamedTemporaryFile
     - [] filesystem: https://docs.python.org/3/library/filesys.html
     - [0] dunder_methods: https://www.tutorialsteacher.com/python/magic-methods-in-python
+    - [0] contextlib: https://docs.python.org/3/library/contextlib.html
 
 ## Aditional documentation
 

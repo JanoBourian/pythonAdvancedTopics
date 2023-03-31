@@ -15,3 +15,10 @@ Abstract classes are relationed with **@staticmethod**, **@classmethod** and **@
 abc.get_cache_token()
 abc.ipdate_abstractmethods(cls)
 ```
+
+## Exist some basic classes
+
+```python
+class abc.ABC
+class abc.ABCMeta
+```
