@@ -3,7 +3,7 @@ Liskov Substitution Principle
 A derived class can assume the place of its super class, and everything should work
 """
 
-"""  
+
 class KitcheAppliance():
     
     def on():
@@ -43,7 +43,7 @@ class Juicer(KitcheAppliance):
         # some code
         pass
 
-"""
+
 
 class KitcheAppliance():
     
