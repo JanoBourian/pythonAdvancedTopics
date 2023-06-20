@@ -11,3 +11,8 @@ In this code I put an example about some class that is using *__iter__\(\)* and 
 ## factorial.py
 
 Not really a factorial, something like that.
+
+## References
+
+About Iterator Types: https://docs.python.org/3/library/stdtypes.html#typeiter
+About Iterator Definition: https://docs.python.org/3/glossary.html#term-iterator

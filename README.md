@@ -6,6 +6,8 @@ This is a personal repo with python code about some advanced and necessaries top
 
 # About topics
 
+Documentation by version: https://www.python.org/doc/versions/
+
 ## Python basic Topics
     The url base is https://docs.python.org/3/tutorial/index.html
     - [x] Using the Python Interpreter: https://docs.python.org/3/tutorial/interpreter.html
@@ -98,6 +100,8 @@ This is a personal repo with python code about some advanced and necessaries top
     - [] filesystem: https://docs.python.org/3/library/filesys.html
     - [0] dunder_methods: https://www.tutorialsteacher.com/python/magic-methods-in-python
     - [0] contextlib: https://docs.python.org/3/library/contextlib.html
+    - [] functools: https://docs.python.org/3/library/functools.html
+
 
 ## Aditional documentation
 
