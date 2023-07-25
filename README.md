@@ -27,7 +27,7 @@ Documentation by version: https://www.python.org/doc/versions/
     - [] Appendix: https://docs.python.org/3/tutorial/appendix.html
 
 ## Fluent python
-    - [] Data structures
+    - [0] Data structures
     - [] An array of sequences 
     - [] Dictionaries and sets
     - [] Unicode text versus bytes
@@ -53,8 +53,8 @@ Documentation by version: https://www.python.org/doc/versions/
     - [] Class Metaprogramming
 
 ## Starlette
-    - [] Introduction
-    - [] Applications
+    - [X] Introduction
+    - [X] Applications
     - [] Requests
     - [] Responses
     - [] WebSockets
