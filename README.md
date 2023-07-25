@@ -26,6 +26,32 @@ Documentation by version: https://www.python.org/doc/versions/
     - [] Floating Point Arithmetic: https://docs.python.org/3/tutorial/floatingpoint.html
     - [] Appendix: https://docs.python.org/3/tutorial/appendix.html
 
+## Fluent python
+    - [] Data structures
+    - [] An array of sequences 
+    - [] Dictionaries and sets
+    - [] Unicode text versus bytes
+    - [] Data class builders
+    - [] Object references, mutability and recycling
+    - [] Functions as First-Class objects
+    - [] Type hints in functions 
+    - [] Decorators and closures
+    - [] Desing patterns with First-Class functions
+    - [] A pythonic Object
+    - [] Special methos for Sequences
+    - [] Interfaces, Protocols and ABCs
+    - [] Inheritance: For Better or for Worse
+    - [] More about Type Hints
+    - [] Operator Overloading
+    - [] Iterators, Generators and Classic Coroutine
+    - [] with, match, and else Blocks
+    - [] Concurrency Models in Python
+    - [] Concurrent Executors
+    - [] Asynchronous Programming
+    - [] Dynamic attributes and properties
+    - [] Attribute descriptors
+    - [] Class Metaprogramming
+
 ## Starlette
     - [] Introduction
     - [] Applications
