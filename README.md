@@ -55,10 +55,10 @@ Documentation by version: https://www.python.org/doc/versions/
 ## Starlette
     - [X] Introduction
     - [X] Applications
-    - [] Requests
-    - [] Responses
-    - [] WebSockets
-    - [] Routing
+    - [X] Requests
+    - [X] Responses
+    - [X] WebSockets
+    - [0] Routing
     - [] Endpoints
     - [] Middleware
     - [] Static files
