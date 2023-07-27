@@ -10,7 +10,7 @@ Documentation by version: https://www.python.org/doc/versions/
 
 ## Python basic Topics
     The url base is https://docs.python.org/3/tutorial/index.html
-    - [] Using the Python Interpreter: https://docs.python.org/3/tutorial/interpreter.html
+    - [X] Using the Python Interpreter: https://docs.python.org/3/tutorial/interpreter.html
     - [] An informal Introduction to Python: https://docs.python.org/3/tutorial/introduction.html
     - [] Control Flow Tools: https://docs.python.org/3/tutorial/controlflow.html
     - [] Data Structures: https://docs.python.org/3/tutorial/datastructures.html
@@ -27,7 +27,7 @@ Documentation by version: https://www.python.org/doc/versions/
     - [] Appendix: https://docs.python.org/3/tutorial/appendix.html
 
 ## Fluent python
-    - [0] Data structures
+    - [0] The python data model
     - [] An array of sequences 
     - [] Dictionaries and sets
     - [] Unicode text versus bytes
