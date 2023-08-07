@@ -11,8 +11,8 @@ Documentation by version: https://www.python.org/doc/versions/
 ## Python basic Topics
     The url base is https://docs.python.org/3/tutorial/index.html
     - [X] Using the Python Interpreter: https://docs.python.org/3/tutorial/interpreter.html
-    - [] An informal Introduction to Python: https://docs.python.org/3/tutorial/introduction.html
-    - [] Control Flow Tools: https://docs.python.org/3/tutorial/controlflow.html
+    - [X] An informal Introduction to Python: https://docs.python.org/3/tutorial/introduction.html
+    - [X] Control Flow Tools: https://docs.python.org/3/tutorial/controlflow.html
     - [] Data Structures: https://docs.python.org/3/tutorial/datastructures.html
     - [] Modules: https://docs.python.org/3/tutorial/modules.html
     - [] Input and Output: https://docs.python.org/3/tutorial/inputoutput.html
@@ -27,8 +27,8 @@ Documentation by version: https://www.python.org/doc/versions/
     - [] Appendix: https://docs.python.org/3/tutorial/appendix.html
 
 ## Fluent python
-    - [0] The python data model
-    - [] An array of sequences 
+    - [X] The python data model
+    - [0] An array of sequences 
     - [] Dictionaries and sets
     - [] Unicode text versus bytes
     - [] Data class builders
@@ -58,8 +58,8 @@ Documentation by version: https://www.python.org/doc/versions/
     - [X] Requests
     - [X] Responses
     - [X] WebSockets
-    - [0] Routing
-    - [] Endpoints
+    - [X] Routing
+    - [X] Endpoints
     - [] Middleware
     - [] Static files
     - [] Templates
@@ -279,4 +279,4 @@ Documentation by version: https://www.python.org/doc/versions/
     - [] jobQueue.queue
     - [] Flask-caching
     - [] Enumerate https://docs.python.org/3/howto/enum.html
-    - [] Functional https://docs.python.org/3/howto/functional.html?highlight=generator
+    - [] Functional https://docs.python.org/3/howto/functional.html
