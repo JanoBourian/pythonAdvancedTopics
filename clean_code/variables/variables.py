@@ -42,3 +42,8 @@ player_score = 500
 total_price_of_all_items_in_the_cart = 5677
 total_price = 5677
 
+# Python keywords and naming conflicts
+class_ = "My class"
+def_ = "New definition"
+continue_ = True
+while_ = False
