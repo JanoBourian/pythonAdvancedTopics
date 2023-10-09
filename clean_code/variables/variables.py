@@ -47,3 +47,16 @@ class_ = "My class"
 def_ = "New definition"
 continue_ = True
 while_ = False
+
+# Constants
+PI = 3.141592653689793
+MAX_OVERFLOW = 50
+TOTAL = 400
+GRAVITY = 9.81
+STATUS_CODE = [200, 201, 400, 403, 404, 500]
+print(STATUS_CODE)
+
+# Boolean Variables
+is_even = True
+has_children = False
+
