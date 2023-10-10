@@ -18,11 +18,11 @@ c = [1, 2, 3]
 
 # Fourth rule
 def conut_vowels(string):
-    allVowels = "aeiou"
+    all_vowels = "aeiou"
     total_count = 0
     
     for letter in string:
-        if letter in allVowels:
+        if letter in all_vowels:
             total_count += 1
     
     return total_count
