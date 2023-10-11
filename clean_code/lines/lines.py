@@ -25,3 +25,8 @@ total_price = price \
             + tax \
             - discount \
             - coupons
+            
+total_price = (price 
+               + tax 
+               - discount 
+               - coupons)
