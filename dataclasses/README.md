@@ -30,3 +30,5 @@ class C:
 - weakref_slot:
 
 ## Arguments for fields
+
+default_factory is designed to set mutable default arguments. 

@@ -221,7 +221,7 @@ Documentation by version: https://www.python.org/doc/versions/
     - [] datetime: https://docs.python.org/3/library/datetime.html
     - [] built-in fuctions: https://docs.python.org/3/library/functions.html
     - [] os: https://docs.python.org/3/library/os.html
-    - [] dataclasses: https://docs.python.org/3/library/dataclasses.html
+    - [X] dataclasses: https://docs.python.org/3/library/dataclasses.html
     - [] collections: https://docs.python.org/3/library/collections.html
     - [] unittest: https://docs.python.org/3/library/unittest.html
     - [] doctest: https://docs.python.org/3/library/doctest.html
