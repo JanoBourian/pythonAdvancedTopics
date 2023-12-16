@@ -27,8 +27,8 @@ Documentation by version: https://www.python.org/doc/versions/
     - [] Appendix: https://docs.python.org/3/tutorial/appendix.html
 
 ## Fluent python
-    - [X] The python data model
-    - [0] An array of sequences 
+    - [] The python data model
+    - [] An array of sequences 
     - [] Dictionaries and sets
     - [] Unicode text versus bytes
     - [] Data class builders
