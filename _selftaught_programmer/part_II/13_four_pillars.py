@@ -15,11 +15,13 @@ class TopSecretValues:
 
 value = TopSecretValues("random", "SHA256")
 print(value.name)
-
-# print(value.__secure_name)
-# print(value.__only_function_access)
 print(value.print_key())
 
+## Abstraction
+
+## Polymorphism
+
+## Inheritance
 
 ## Composition
 
