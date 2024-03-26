@@ -52,6 +52,23 @@ Documentation by version: https://www.python.org/doc/versions/
     - [] Attribute descriptors
     - [] Class Metaprogramming
 
+## Data Types
+    - [] datetime
+    - [] zoneinfo
+    - [] calendar
+    - [] collections
+    - [] collections.abc
+    - [] heapq
+    - [] bisect
+    - [] array
+    - [] weakref
+    - [] types
+    - [] copy
+    - [] pprint
+    - [] reprlib
+    - [] enum 
+    - [] graphlib
+
 ## Starlette
     - [X] Introduction
     - [] Applications
