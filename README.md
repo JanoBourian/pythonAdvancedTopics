@@ -10,9 +10,9 @@ Documentation by version: https://www.python.org/doc/versions/
 
 ## Python basic Topics
     The url base is https://docs.python.org/3/tutorial/index.html
-    - [X] Using the Python Interpreter: https://docs.python.org/3/tutorial/interpreter.html
-    - [X] An informal Introduction to Python: https://docs.python.org/3/tutorial/introduction.html
-    - [X] Control Flow Tools: https://docs.python.org/3/tutorial/controlflow.html
+    - [] Using the Python Interpreter: https://docs.python.org/3/tutorial/interpreter.html
+    - [] An informal Introduction to Python: https://docs.python.org/3/tutorial/introduction.html
+    - [] Control Flow Tools: https://docs.python.org/3/tutorial/controlflow.html
     - [] Data Structures: https://docs.python.org/3/tutorial/datastructures.html
     - [] Modules: https://docs.python.org/3/tutorial/modules.html
     - [] Input and Output: https://docs.python.org/3/tutorial/inputoutput.html
@@ -70,7 +70,7 @@ Documentation by version: https://www.python.org/doc/versions/
     - [] graphlib
 
 ## Starlette
-    - [X] Introduction
+    - [] Introduction
     - [] Applications
     - [] Requests
     - [] Responses
@@ -238,7 +238,7 @@ Documentation by version: https://www.python.org/doc/versions/
     - [] datetime: https://docs.python.org/3/library/datetime.html
     - [] built-in fuctions: https://docs.python.org/3/library/functions.html
     - [] os: https://docs.python.org/3/library/os.html
-    - [X] dataclasses: https://docs.python.org/3/library/dataclasses.html
+    - [] dataclasses: https://docs.python.org/3/library/dataclasses.html
     - [] collections: https://docs.python.org/3/library/collections.html
     - [] unittest: https://docs.python.org/3/library/unittest.html
     - [] doctest: https://docs.python.org/3/library/doctest.html

@@ -9,18 +9,20 @@ with urllib.request.urlopen('http://python.org/') as response:
 
 async def get_method(url:str, index:int) -> int:
     res = None
+    content = None
     with urllib.request.urlopen(url) as response:
         res = response.code
-    value = random.randrange(10)
-    await asyncio.sleep(value)
-    print(index, res, value)
-    return value
+    # value = random.randrange(10)
+    # await asyncio.sleep(value)
+    # print(index, res, value)
+    print(index, res)
+    return index
     
 
 async def main():
     start = time.perf_counter()
     print(f"Start {time.strftime('%X')}")
-    urls = ['http://127.0.0.1:8000/books/' for _ in range(1000)]
+    urls = ['http://127.0.0.1:8000/' for _ in range(100000)]
     background_tasks = set()
     for index, item in enumerate(urls):
         task = asyncio.create_task(get_method(item, index))
